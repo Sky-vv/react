@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import Register from '../components ';
 
 class RegisterContainer extends React.Component {
@@ -44,3 +44,4 @@ componentWillUnmount() {
 }
 
 export default RegisterContainer
+*/

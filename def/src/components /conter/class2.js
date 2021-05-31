@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import TextField from '@material-ui/core/TextField';
 
 const Register = ({ handleIncrement, handleDecrement, changeDisplayFormStatus, currentValue, displayForm}) => (
@@ -23,3 +23,4 @@ const Register = ({ handleIncrement, handleDecrement, changeDisplayFormStatus, c
 </div>
  );
 export default Register;
+*/
